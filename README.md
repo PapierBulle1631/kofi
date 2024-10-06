@@ -6,7 +6,8 @@ Welcome to my PowerShell Scripts repository! Here you will find a collection of 
 
 - **Recherches_pc**: This script automates the process of collecting points by performing Bing searches.
 - **vignettes_pc**: This script automates the process of collecting points by clicking the main thumbnails.
-- **all**: This script automates the process of collecting points by combining the two script above
+- **all**: This script combine the two aboves.
+- **search_main_smooth**: This is the every-function script with a smooth mouse movement.
 
 ## How to Use
 
