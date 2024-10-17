@@ -8,13 +8,14 @@ Welcome to my PowerShell Scripts repository! Here you will find a collection of 
 - **vignettes_pc**: This script automates the process of collecting points by clicking the main thumbnails.
 - **all**: This script combine the two aboves.
 - **search_main_smooth**: This is the every-function script with a smooth mouse movement.
+- **interface_v1**: Here is a cool little interface to choose which script to start.
 
 ## How to Use
 
 1. Clone or download one of the file to your local machine.
 2. Make sur your default browser is edge
 3. Mahe sure the default account connected in edge is the one you want to earn points on.
-4. Run the desired script by typing.
+4. Run the desired script by double clicking on it.
 
 ## Requirements
 
