@@ -1,6 +1,6 @@
-# PowerShell Scripts Repository
+# Microsoft Rewards Bot
 
-Welcome to my PowerShell Scripts repository! Here you will find a collection of scripts designed to automate various tasks, simplify workflows, and enhance productivity.
+Welcome to my PowerShell Scripts repository! Here you will find a collection of scripts designed to automate task for the microsoft rewards program.
 
 ## Scripts Available
 
