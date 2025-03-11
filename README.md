@@ -4,6 +4,8 @@ Welcome to my PowerShell Scripts repository! Here you will find a collection of 
 
 ## Scripts Available
 
+<span style="color:red;">WARNING : The following scripts has not been updated for a long time and only "recherches_pc" is still good. The other does not have right coordinates and are deprecated.</span>
+
 - **Recherches_pc**: This script automates the process of collecting points by performing Bing searches.
 - **vignettes_pc**: This script automates the process of collecting points by clicking the main thumbnails.
 - **all**: This script combine the two aboves.
